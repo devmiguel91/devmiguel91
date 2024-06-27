@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devmiguel91
-- 🇵🇹 My name is Miguel and I live in Portugal
+- 🇵🇹  My name is Miguel and I live in Portugal
 - 🍎 I work on iOS native development (Swift and Objective-C)
 - 👀 I’m interested in SwiftUI
 - 🌱 I’m currently learning SwiftUI, new iOS 18 APIs, Windows personalization
