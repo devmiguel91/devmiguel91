@@ -3,6 +3,7 @@
 - 🍎 I work on iOS native development (Swift and Objective-C)
 - 👀 I’m interested in SwiftUI
 - 🌱 I’m currently learning SwiftUI, new iOS 18 APIs, Windows personalization
+- 🤘 I love metal and rock & roll
 - ⚡ Fun fact: My hobbies are photography, gaming, brewing gin and organizing off-road expeditions in Northern Africa 😎
 
 <!---
